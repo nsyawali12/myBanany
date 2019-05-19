@@ -25,7 +25,7 @@
                 android:src="@drawable/ellipse" />
 
             <TextView
-                android:id="@+id/textView2"
+                android:id="@+id/textBanany1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignParentStart="true"
@@ -37,7 +37,7 @@
                 android:textSize="18sp" />
 
             <TextView
-                android:id="@+id/textView2"
+                android:id="@+id/textDevice1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignParentStart="true"
