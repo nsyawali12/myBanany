@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     public int MY_PERMISSIONS_REQUEST_WRITE_EXTERNAL_STORAGE = 0;
     AddServerActivity activityAddServer;
     public GridView gridView;
-    // Tambahahin kleas DB FtpDbHelper helper = new FtpDbHelper(this);
+    FtpDbHelper helper = new FtpDbHelper(this);
     ArrayList<String> serverList = new ArrayList();
 
     //Class untuk si pemanggilan logo
